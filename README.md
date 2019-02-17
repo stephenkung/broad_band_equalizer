@@ -6,9 +6,10 @@ This is the Xilinx competition project I have done with my friend.
 GAL.v: a naive version of GAL algorithm implementation on FPGA. Language is Verilog.         
 GAL_NEW.v: a optimized version of GAL algorithm implemantation.    
 report.pdf: the full report and technical detail of this project, if you can read Chinese.    
-NLMS is not provided, it is running on ARM dule core, writing by C++.     
+    
 
 ---
+NLMS part is not provided, it is running on ARM dule core, writing by C++.   
 You can get a video introduction of this project if you understand Chinese:     
 [Video show of this project](https://v.youku.com/v_show/id_XNTczODM1MzUy.html)      
       
