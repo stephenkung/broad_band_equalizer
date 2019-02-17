@@ -1,5 +1,5 @@
-# broad_band_equalizer
-a broad band equalizer implementing GAL-NLMS algorithm and running on Zynq-7020 FPGA.    
+# Broad_band_equalizer on Zynq-7020
+A broad band equalizer implementing GAL-NLMS algorithm and running on Zynq-7020 FPGA.    
 This is the Xilinx competition project I have done with my friend.       
 
 Here is the code of GAL algorithm part, which is running on FPGA.    
