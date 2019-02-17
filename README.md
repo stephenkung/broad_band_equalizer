@@ -8,7 +8,7 @@ GAL_NEW.v: a optimized version of GAL algorithm implemantation.
 report.pdf: the full report and technical detail of this project, if you can read Chinese.    
 NLMS is not provided, it is running on ARM dule core, writing by C++.              
 You can get a video introduction of this project if you understand Chinese:     
-![Video show of this project](https://v.youku.com/v_show/id_XNTczODM1MzUy.html)      
+[Video show of this project](https://v.youku.com/v_show/id_XNTczODM1MzUy.html)      
       
 
 Here is the GAL-NLMS algorithm:    
